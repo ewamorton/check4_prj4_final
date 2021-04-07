@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-	background-image: url("../images/wallpaper-patter.jpg");
+	background-image: url("../images/newspaper.jpg");
 	margin: 0; padding: 0; border: 0; font-size: 100%;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 .button:hover{
-	background-color: chartreuse
+	background-color: white
 }
 
 nav {
@@ -29,18 +29,18 @@ nav {
 
 .navbuttons {
 	text-decoration: none;
-	color: cadetblue
+	color: cadetblue;
 }
 
 .googlefont {
 	margin-top: -20px;
-	font-family: 'DotGothic16', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
 
 
 .hoodies {
-	background-color: burlywood;
+	background-color:burlywood;
 	width:876px;
 	height: 864px;
 	margin-left: auto;
@@ -52,11 +52,11 @@ nav {
 
 .stussyhoodie{
 	float:left;
-	padding-right: 15px;
+	padding-right: 50px;
 }
 .header1 {
-	background-color: aliceblue;
-	background-image: url("../images/city.png");
+	background-color:khaki;
+	background-image: url("../images/stussybanner.jpg");
 	width:900px;
 	height: 264px;
 	margin-left:auto;
