@@ -1,4 +1,5 @@
 @charset "UTF-8";
+* {margin: 0; padding: 0; border: 0; font-size: 100%;} 
 
 body {
 	background-image: url("../images/newspaper.jpg");
@@ -33,22 +34,20 @@ nav {
 }
 
 .googlefont {
-	margin-top: -20px;
+	margin-top: 2px;
 	font-family: 'Raleway', sans-serif;
 }
 
-
-
 .hoodies {
 	background-color:burlywood;
+	border: 1px solid grey;
 	width:876px;
-	height: 864px;
+	height: 800px;
 	margin-left: auto;
 	margin-right:auto;
 	padding-left: 12px;
 	padding-right: 12px;
 }
-
 
 .stussyhoodie{
 	float:left;
@@ -57,8 +56,22 @@ nav {
 .header1 {
 	background-color:khaki;
 	background-image: url("../images/stussybanner.jpg");
+	border: 1px solid grey;
 	width:900px;
 	height: 264px;
 	margin-left:auto;
 	margin-right: auto;
+}
+
+.my-container {
+	color:black;
+	background-color: beige;
+	border: 1px solid grey;
+	text-align: center;
+	width:876px;
+	height: 160px;
+	margin-left: auto;
+	margin-right:auto;
+	padding-left: 12px;
+	padding-right: 12px;
 }
